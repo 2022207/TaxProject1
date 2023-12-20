@@ -10,10 +10,7 @@ package taxproject1;
  */
 public class TaxCredits {
     
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-}
-=======
+
     
     //  variables to store tax credit rates
     private double rateBelow40K;
@@ -44,7 +41,6 @@ public class TaxCredits {
     
 }
 
->>>>>>> a0f0a93af56db7604f8a836c0758e88915e8f567
-=======
-}
->>>>>>> Stashed changes
+
+
+

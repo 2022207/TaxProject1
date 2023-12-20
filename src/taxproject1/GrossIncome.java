@@ -10,7 +10,7 @@ package taxproject1;
  */
 public class GrossIncome {
     
-<<<<<<< Updated upstream
+
      private double amount;
 
      
@@ -26,6 +26,5 @@ public class GrossIncome {
 }
     
 }
-=======
-}
->>>>>>> Stashed changes
+
+
