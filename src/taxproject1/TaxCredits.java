@@ -10,4 +10,33 @@ package taxproject1;
  */
 public class TaxCredits {
     
+    
+    //  variables to store tax credit rates
+    private double rateBelow40K;
+    private double rateAbove40K;
+
+    
+    /**
+     * Constructor to initialize tax credits with rates for income below and above 40,000.
+     *
+     * @param rateBelow40K  The tax credit rate for income below 40,000.
+     * @param rateAbove40K  The tax credit rate for income above or equal to 40,000.
+     */
+    public TaxCredits(double rateBelow40K, double rateAbove40K) {
+        this.rateBelow40K = rateBelow40K;
+        this.rateAbove40K = rateAbove40K;
+    }
+
+    
+   // Getter method to retrieve the tax credit rate for income below 40,000.
+    public double getRateBelow40K() {
+        return rateBelow40K;
+    }
+
+    //Getter method to retrieve the tax credit rate for income above or equal to 40,000.
+    public double getRateAbove40K() {
+        return rateAbove40K;
+    }
+    
 }
+
