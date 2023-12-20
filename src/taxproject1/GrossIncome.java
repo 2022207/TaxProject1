@@ -10,8 +10,6 @@ package taxproject1;
  */
 public class GrossIncome {
     
-<<<<<<< HEAD
-=======
      private double amount;
 
      
@@ -26,5 +24,4 @@ public class GrossIncome {
         return amount;
 }
     
->>>>>>> a0f0a93af56db7604f8a836c0758e88915e8f567
 }
