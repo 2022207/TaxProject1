@@ -8,6 +8,7 @@ package taxproject1;
  *
  * @author castr
  */
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 public class TaxCalculator {
     
@@ -48,4 +49,8 @@ public class TaxCalculator  {
         return 0.0; 
     }
 >>>>>>> a0f0a93af56db7604f8a836c0758e88915e8f567
+=======
+public class TaxCalculator {
+    
+>>>>>>> Stashed changes
 }
