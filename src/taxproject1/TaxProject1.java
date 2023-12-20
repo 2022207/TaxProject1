@@ -2,7 +2,26 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
+
+/**
+ *
+ * @author castr
+ *  * GitHub link: https://github.com/2022207/TaxProject1
+ * Group Member 1 Name: Suelen Rocha
+ * Group Member 1 Student Number: 2022345
+ * Group Member 2 Name: Carolina Azevedo de Castro
+ * Group Member 2 Student Number: 2022207
+ * 
+ * 
+ * 
+ */
+
+
+
+
+
 package taxproject1;
+
 
 import Database.DatabaseSetup;
 import Database.DatabaseWriter;
@@ -13,10 +32,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author castr
- */
+
 public class TaxProject1 {
 
     /**
