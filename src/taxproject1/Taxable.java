@@ -10,4 +10,10 @@ package taxproject1;
  */
 public interface Taxable {
     
+    //Calculate the tax amount for the taxable entity.
+     double calculateTax();
+
+    public double getAmount();
+     TaxType getTaxType();
+    
 }

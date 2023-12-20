@@ -8,6 +8,23 @@ package taxproject1;
  *
  * @author suele
  */
-public class TaxType {
+public enum TaxType {
     
+     PAYE(0.10), // rate for PAYE
+    USC(0.05),  // rate for USC
+    PRSI(0.02); // rate for PRSI
+
+    
+    //to store the tax rate
+    private final double rate;
+
+    TaxType(double rate) {
+        this.rate = rate;
+    }
+  
+    
+    //Getter method to retrieve the tax rate 
+    public double getRate() {
+        return rate;
+    }
 }
