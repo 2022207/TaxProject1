@@ -4,8 +4,8 @@
  */
 package Entities;
 
-import taxsystem.TaxCredits;
-import taxsystem.TaxType;
+import taxproject1.TaxCredits;
+import taxproject1.TaxType;
 
 /**
  *
