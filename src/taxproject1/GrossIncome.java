@@ -10,4 +10,18 @@ package taxproject1;
  */
 public class GrossIncome {
     
+     private double amount;
+
+     
+    // Method to set the gross income amount.
+    public void setAmount(double amount) {
+        this.amount = amount;
+    }
+
+    
+    //Method to get the gross income amount.
+    public double getAmount() {
+        return amount;
+}
+    
 }
